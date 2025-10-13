@@ -1,0 +1,7 @@
+msg = input('Digite algo: ')
+print('O que você digitou é um numerico?',msg.isnumeric())
+print('O que você digitou é alfabetico?',msg.isalpha())
+print('O que você digitou é um alfanumerico?', msg.isalnum())
+print('O que você digitou está em letras maiusculas?', msg.isupper())
+print('O que você digitou está em letras minusculas?', msg.islower())
+print('O que você digitou é um espaço em branco?', msg.isspace())
