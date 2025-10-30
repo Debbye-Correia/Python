@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11bf52f6-223c-4b87-8561-5bbca33ac692" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PycharmProjects/CursoemVideo/ex002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/CursoemVideo/ex000.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/CursoemVideo/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/CursoemVideo/ex001.py" afterDir="false" />
-    </list>
+    <list default="true" id="11bf52f6-223c-4b87-8561-5bbca33ac692" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,10 +20,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="33y5moERNTZSuL2eAMzUDWx5xZZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,22 +34,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aula06a.executor": "Run",
+    "Python.aula06b.executor": "Run",
     "Python.desafio01.executor": "Run",
+    "Python.desafio03.executor": "Run",
+    "Python.desafio04.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercicios-Lista" />
       <recent name="$PROJECT_DIR$/PycharmProjects/CursoemVideo" />
     </key>
   </component>
@@ -70,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760276632974</updated>
       <workItem from="1760276634009" duration="4445000" />
+      <workItem from="1760366724716" duration="4100000" />
     </task>
     <servers />
   </component>
@@ -78,7 +84,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$desafio01.coverage" NAME="desafio01 Coverage Results" MODIFIED="1760277325455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts-python" />
+    <SUITE FILE_PATH="coverage/Python$aula06a.coverage" NAME="aula06a Coverage Results" MODIFIED="1760369178140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-teste" />
+    <SUITE FILE_PATH="coverage/Python$aula06b.coverage" NAME="aula06b Coverage Results" MODIFIED="1760369310598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-teste" />
+    <SUITE FILE_PATH="coverage/Python$desafio04.coverage" NAME="desafio04 Coverage Results" MODIFIED="1760370378915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts-python" />
     <SUITE FILE_PATH="coverage/Python$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1760280166521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PycharmProjects/CursoemVideo" />
     <SUITE FILE_PATH="coverage/Python$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1760280239528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PycharmProjects/CursoemVideo" />
+    <SUITE FILE_PATH="coverage/Python$desafio03.coverage" NAME="desafio03 Coverage Results" MODIFIED="1760368351189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts-python" />
   </component>
 </project>
