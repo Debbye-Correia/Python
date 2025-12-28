@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11bf52f6-223c-4b87-8561-5bbca33ac692" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios-Lista/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Lista/ex004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-teste/aula08a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -39,12 +47,27 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.aula06a.executor": "Run",
     "Python.aula06b.executor": "Run",
+    "Python.aula07a.executor": "Run",
+    "Python.aula08a.executor": "Run",
     "Python.desafio01.executor": "Run",
     "Python.desafio03.executor": "Run",
     "Python.desafio04.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
+    "Python.ex016.executor": "Run",
+    "Python.ex017.executor": "Run",
     "Python.pdf.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -54,10 +77,18 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Python" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Python" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Exercicios-Lista" />
