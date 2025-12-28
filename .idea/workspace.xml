@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11bf52f6-223c-4b87-8561-5bbca33ac692" name="Changes" comment="" />
+    <list default="true" id="11bf52f6-223c-4b87-8561-5bbca33ac692" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Lista/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Lista/ex004.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +44,8 @@
     "Python.desafio04.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.pdf.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -49,7 +54,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,7 +67,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
         <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
@@ -76,6 +80,7 @@
       <updated>1760276632974</updated>
       <workItem from="1760276634009" duration="4445000" />
       <workItem from="1760366724716" duration="4100000" />
+      <workItem from="1764752122809" duration="8000" />
     </task>
     <servers />
   </component>
