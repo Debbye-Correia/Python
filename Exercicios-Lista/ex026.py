@@ -1,0 +1,1 @@
+# ler uma frase e dizer: quantas letras "A" tem, e qual é a primeira e ultima posição em que ela aparece

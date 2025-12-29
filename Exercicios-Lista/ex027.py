@@ -1,0 +1,1 @@
+# ler o nome completo de uma pessoa e mostrar o primeiro e ultimo nome separadamente
