@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11bf52f6-223c-4b87-8561-5bbca33ac692" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-teste/aula10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios-Lista/ex022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Lista/ex022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios-Lista/ex023.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Lista/ex023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios-Lista/ex024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Lista/ex024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios-Lista/ex025.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Lista/ex025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios-Lista/ex026.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Lista/ex026.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios-Lista/ex027.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Lista/ex027.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +53,7 @@
     "Python.aula07a.executor": "Run",
     "Python.aula08a.executor": "Run",
     "Python.aula09.executor": "Run",
+    "Python.aula10.executor": "Run",
     "Python.desafio01.executor": "Run",
     "Python.desafio03.executor": "Run",
     "Python.desafio04.executor": "Run",
@@ -79,6 +83,13 @@
     "Python.ex025.executor": "Run",
     "Python.ex026.executor": "Run",
     "Python.ex027.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex030.executor": "Run",
+    "Python.ex031.executor": "Run",
+    "Python.ex032.executor": "Run",
+    "Python.ex033.executor": "Run",
+    "Python.ex034.executor": "Run",
     "Python.pdf.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
