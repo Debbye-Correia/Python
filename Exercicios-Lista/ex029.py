@@ -1,5 +1,5 @@
 # ler a velocidade do carro, mais de 80km/h dizer que ele foi multado no valorde de 7 reais por cada km acima do limite
-vel = int(input('Qual é a sua velocidade em Km/h? '))
+vel = float(input('Qual é a sua velocidade em Km/h? '))
 if vel <= 80:
     print('Você esta dentro da margem de velocidade permitida!')
 else:
