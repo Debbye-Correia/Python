@@ -3,14 +3,14 @@ from datetime import date
 nasc = int(input('Ano de nascimento: '))
 idade = date.today().year - nasc
 
-print('De acordo com a sua idade a sua categoria é: ')
+print(f'O atleta tem {idade} anos.')
 if idade <= 9:
-    print('Mirim')
+    print('Categoria: Mirim')
 elif idade <= 14:
-    print('Infantil')
+    print('Categoria: Infantil')
 elif idade <= 19:
-    print('Junior')
-elif idade <=20:
-    print('Senior')
+    print('Categoria: Junior')
+elif idade <=25:
+    print('Categoria: Senior')
 else:
-    print('Master')
+    print('Categoria: Master')
