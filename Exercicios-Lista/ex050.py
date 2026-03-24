@@ -1,6 +1,8 @@
 s = 0
-for c in range (0,6):
-    n = int(input('Digite um numero: '))
+cont = 0
+for c in range (1,7):
+    n = int(input(f'Digite o {c}º valor: '))
     if n % 2 == 0:
         s += n
-print(f'A soma dos numeros pares digitados é de: {s}')
+        cont += 1
+print(f'Você digitou {cont} numeros pares e a soma foi {s}')

@@ -1,7 +1,7 @@
 soma = 0
-for c in range (1, 500):
-    if c % 2 == 1:
-        if c % 3 == 0:
-            soma = soma + c
-            print(c)
-print(f'Soma {soma}')
+cont = 0
+for c in range (1, 501, 2):
+    if c % 3 == 0:
+        soma += c
+        cont += 1
+print(f'Soma de todos os {cont} valores solicitados é {soma}')
