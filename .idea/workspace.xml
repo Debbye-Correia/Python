@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11bf52f6-223c-4b87-8561-5bbca33ac692" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-teste/aula13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex052.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,6 +101,13 @@
     "Python.ex043.executor": "Run",
     "Python.ex044.executor": "Run",
     "Python.ex045.executor": "Run",
+    "Python.ex046.executor": "Run",
+    "Python.ex047.executor": "Run",
+    "Python.ex048.executor": "Run",
+    "Python.ex049.executor": "Run",
+    "Python.ex050.executor": "Run",
+    "Python.ex051.executor": "Run",
+    "Python.ex052.executor": "Run",
     "Python.pdf.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
