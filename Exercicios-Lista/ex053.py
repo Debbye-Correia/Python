@@ -1,0 +1,6 @@
+print('-=' * 25)
+print('Detector de Palindromo')
+print('-=' * 25)
+frase = str(input('Digite uma frase: ')).lower().split()
+jfrase = ''.join(frase)
+print(jfrase)
