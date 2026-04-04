@@ -1,9 +1,4 @@
-op = 1
-s = ''
-while op != 0:
-    s = str(input('Digite o seu sexo: [M/F] ')).strip()
-    if s in 'MFmf':
-        print('Opção registrada com sucesso!')
-        op = 0
-    else:
-        print('Opção inválida! Tente novamente!')
+s = str(input('Digite o seu sexo: [M/F] ')).strip().upper()[0]
+while s not in 'MFmf':
+    s = str(input('Opção inválida! Tente novamente! Digite o seu sexo: [M/F] ')).strip().upper()[0]
+print(f'Sexo {s} registrado com sucesso!')

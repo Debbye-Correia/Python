@@ -1,8 +1,7 @@
-s = 0
-n = 0
-c = 0
+s = n = c = 0
+n = int(input('Digite um valor [999 para parar]: '))
 while n != 999:
-    n = int(input('Digite um valor: '))
     c += 1
     s += n
-print(f'Foram digitados {c - 1} valores, e a soma dos valores é de {s - 999}')
+    n = int(input('Digite um valor [999 para parar]: '))
+print(f'Foram digitados {c} valores, e a soma dos valores é de {s}')

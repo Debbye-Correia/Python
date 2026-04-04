@@ -1,9 +1,11 @@
 # 5! = 5 * 4 * 3 * 2 * 1 = 120
 n = int(input('Digite um numero: '))
-c = n - 1
-f = n * c
-c = c-1
-while c != 1:
+c = n
+f = 1
+print(f'Calculando {n}! = ', end='')
+while c > 0:
+    print(f'{c}', end='')
+    print(' x ' if c > 1 else ' = ', end='')
     f *= c
     c -= 1
-print(f'O fatorial do numero {n} é {f}')
+print(f)
