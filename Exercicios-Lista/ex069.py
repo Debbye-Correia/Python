@@ -7,7 +7,7 @@ while True:
     s = str(input('Sexo: [M/F] ')).upper().strip()[0]
     while s not in 'MFmf':
         s = str(input('Sexo: [M/F] ')).upper().strip()[0]
-    if i > 18:
+    if i >= 18:
         mais18 += 1
     if s in 'Mm':
         hom += 1

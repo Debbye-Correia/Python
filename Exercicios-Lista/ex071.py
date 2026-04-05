@@ -1,22 +1,25 @@
-q50 = q20 = q10 = q1 = 0
 print('=' * 40)
-print(f'{' '*10} CAIXA ELETRONICO')
+print(f'{' CAIXA ELETRONICO ': ^40}')
 print('=' * 40)
 v = int(input('Que valor você quer sacar? R$'))
+tot = v
+ced = 50
+totced = 0
 while True:
-    q50 = v / 50
-    v -= (q50 * 50)
-    q20 = v / 20
-    v -= (q20 * 20)
-    q10 = v / 10
-    v -= (q10 * 10)
-    q1 = v / 1
-    v -= (q1 * 1)
-    if v == 0:
-        break
-print(f'Total de {q50} cédulas de R$50')
-print(f'Total de {q20} cédulas de R$20')
-print(f'Total de {q10} cédulas de R$10')
-print(f'Total de {q1} cédulas de R$1')
+    if tot >= ced:
+        tot -= ced
+        totced +=1
+    else:
+        if totced > 0:
+            print(f'Total de {totced} cédulas de R${ced}')
+        if ced == 50:
+            ced = 20
+        elif ced == 20:
+            ced = 10
+        elif ced == 10:
+            ced = 1
+        totced = 0
+        if tot == 0:
+            break
 print('=' * 40)
 print('Volte sempre! Tenha um bom dia!')
