@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11bf52f6-223c-4b87-8561-5bbca33ac692" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-teste/aula16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex076.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,6 +127,11 @@
     "Python.ex069.executor": "Run",
     "Python.ex070.executor": "Run",
     "Python.ex071.executor": "Run",
+    "Python.ex072.executor": "Run",
+    "Python.ex073.executor": "Run",
+    "Python.ex074.executor": "Run",
+    "Python.ex075.executor": "Run",
+    "Python.ex076.executor": "Run",
     "Python.pdf.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
