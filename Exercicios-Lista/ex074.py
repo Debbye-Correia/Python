@@ -1,13 +1,7 @@
 from random import randint
 sort = (randint(0,9), randint(0,9),randint(0,9) ,randint(0,9), randint(0,9))
-print(f'Os valores sorteados foram: {sort}')
-for c in range (0, len(sort)):
-    if c == 0:
-        menor = sort[c]
-        maior = sort[c]
-    if sort[c] < menor:
-        menor = sort[c]
-    elif sort[c] > maior:
-        maior = sort[c]
-print(f'O maior valor sorteado foi {maior}')
-print(f'O menor valor sorteado foi {menor}')
+print(f'Os valores sorteados foram:', end=' ')
+for s in sort:
+    print(f'{s}', end=' ')
+print(f'\nO maior valor sorteado foi {max(sort)}')
+print(f'O menor valor sorteado foi {min(sort)}')

@@ -3,8 +3,11 @@ extenso = ('Zero', 'Um', 'Dois', 'Três', 'Quatro', 'Cinco', 'Seis', 'Sete', 'Oi
 
 while True:
     n = int(input('Digite um numero entre 0 e 20: '))
-    if n < 0 or n > 20:
-        print('Tente novamente!', end=' ')
+    if 0 <= n <= 20:
+        print(f'Você digitou o numero {extenso[n]}')
     else:
+        print('Tente novamente!', end=' ')
+    r = str(input('Quer continuar? [S/N] ')).upper().strip()
+    if r == 'N':
         break
-print(f'Você digitou o numero {extenso[n]}')
+print('FIM')
