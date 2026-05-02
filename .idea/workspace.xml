@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11bf52f6-223c-4b87-8561-5bbca33ac692" name="Changes" comment="" />
+    <list default="true" id="11bf52f6-223c-4b87-8561-5bbca33ac692" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Lista/ex083.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,6 +135,9 @@
     "Python.ex078.executor": "Run",
     "Python.ex079.executor": "Run",
     "Python.ex080.executor": "Run",
+    "Python.ex081.executor": "Run",
+    "Python.ex082.executor": "Run",
+    "Python.ex083.executor": "Run",
     "Python.pdf.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
